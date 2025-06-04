@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KH/6bQfXM8c=",
+  "dgSpecHash": "9mdG5rtpYC4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zinan\\RPG_Manager\\backend\\AuthService\\AuthService.csproj",
+  "projectFilePath": "C:\\Users\\zinan\\RPG_Manager\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zinan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
     "C:\\Users\\zinan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zinan\\RPG_Manager\\backend\\AuthService\\AuthService.csproj",
-      "projectName": "AuthService",
-      "projectPath": "C:\\Users\\zinan\\RPG_Manager\\backend\\AuthService\\AuthService.csproj",
+      "projectUniqueName": "C:\\Users\\zinan\\RPG_Manager\\backend\\backend.csproj",
+      "projectName": "backend",
+      "projectPath": "C:\\Users\\zinan\\RPG_Manager\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\zinan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zinan\\RPG_Manager\\backend\\AuthService\\obj\\",
+      "outputPath": "C:\\Users\\zinan\\RPG_Manager\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zinan\\AppData\\Roaming\\NuGet\\NuGet.Config"
