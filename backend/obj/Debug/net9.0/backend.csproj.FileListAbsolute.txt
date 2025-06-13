@@ -27,3 +27,7 @@ C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\refint\backend.dll
 C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\backend.pdb
 C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
 C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\ref\backend.dll
+C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\zinan\RPG_Manager\backend\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json

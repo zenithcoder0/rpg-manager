@@ -1,0 +1,117 @@
+########################################
+# 🔧 .NET / ASP.NET Core Build Files
+########################################
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# MSBuild
+*.csproj.user
+*.csproj.FileListAbsolute.txt
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+########################################
+# 🧪 Test Results
+########################################
+TestResults/
+*.coverage
+*.coveragexml
+
+########################################
+# 📦 NuGet Packages
+########################################
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+########################################
+# 🧠 Rider / VS / VSCode
+########################################
+.idea/
+.vscode/
+.vs/
+
+########################################
+# 🌐 Frontend (Vite + React)
+########################################
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Frontend logs / lock files
+frontend/.env.local
+frontend/.DS_Store
+frontend/yarn.lock
+frontend/package-lock.json
+
+########################################
+# 🔒 Secrets / Configs (You set these)
+########################################
+.env
+.env.*
+appsettings.Development.json
+secrets.json
+
+########################################
+# 🍃 DBeaver Workspace (optional)
+########################################
+.dbeaver-data-sources.xml
+.dbeaver/
+
+########################################
+# 🔍 Logs and crash dumps
+########
+########################################
+# 🔧 .NET Build Output
+########################################
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet Package Metadata
+*.nupkg
+*.snupkg
+*.nuspec
+*.nuget.dgspec.json
+*.nuget.props
+*.nuget.targets
+*.nuget.cache
+*.nuget*
+
+# MSBuild Garbage
+*.csproj.FileListAbsolute.txt
+*.AssemblyInfoInputs.cache
+*.CoreCompileInputs.cache
+*.csproj.user
+
+# Rider / VS / VS Code
+.vscode/
+.idea/
+.vs/
+
+# User-local / project-specific garbage
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Other temp files
+*.tmp
+*.bak
+*.swp
+*.swo
