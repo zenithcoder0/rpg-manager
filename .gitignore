@@ -115,3 +115,6 @@ obj/
 *.bak
 *.swp
 *.swo
+# Protect config
+backend/appsettings.Development.json
+backend/appsettings.json
